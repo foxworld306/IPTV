@@ -123,7 +123,7 @@ http://20.254.1.9/PLTV/88888888/224/3221225849/10000100000000060000000001128723_
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
 http://20.254.1.9/PLTV/88888888/224/3221225761/10000100000000060000000001020134_0.smil/index.m3u8?rrsip=20.254.1.9&fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=Uqeq%2Boy1dBELxCuFvRpa8czSquKOOo%2FFQ5zRdldos3PBFGcZsESCluF%2FGBAW8LefJaKHbXhBoFItRV%2F7vFw%2BjITKf0d6isZF3YWGVGkjqKV%2BW7Bhzc0iaHEWEnLae%2FlPStAL9gud55iefk%2BHQuWKqw%3D%3D%3A20200106134815%2CIPTV00193335%2C112.64.29.18%2C20200106134815%2CUmai%3ACHAN%2F4252688%40BESTV.SMG.SMG%2C389B98319D02CA30AD44A33B2CA755AF%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="重庆高清",CETV-4
-https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
+
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视",山东教育卫视
 sdjy
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
