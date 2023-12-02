@@ -266,6 +266,8 @@ https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="金砖电视" tvg-name="金砖电视" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="国际",金砖电视
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1,长城精品  
+http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1,大愛一臺
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1,大愛二臺
