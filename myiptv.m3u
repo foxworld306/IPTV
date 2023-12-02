@@ -173,7 +173,7 @@ http://epg.112114.xyz/douyu/263824
 #EXTINF:-1 tvg-id="斗鱼44" tvg-name="斗鱼44" group-title="斗鱼直播",斗鱼44
 http://epg.112114.xyz/douyu/323876
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳",凤凰中文
-https://0472.org/hls/fhzw.m3u8
+http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 #EXTINF:-1 group-title="测试频道",新加坡·CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="测试频道",澳亚卫视
