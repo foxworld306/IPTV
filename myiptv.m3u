@@ -402,49 +402,49 @@ http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1,房山电视台 
 https://live.funhillrm.com/2/playlist.m3u8
-#EXTINF:-1,超高清电影4K
+#EXTINF:-1 tvg-id="超高清电影4K" tvg-name="超高清电影4K" tvg-logo="https://live.fanmingming.com/tv/超高清电影4K.png" group-title="电影",超高清电影4K
 http://49.235.110.121:9090/daili/小果.php?id=emdy4k_8000&Cf.m3u8
-#EXTINF:-1,CHC家庭影院
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影",CHC家庭影院
 http://49.235.110.121:9090/daili/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
-#EXTINF:-1,CHC动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影",CHC动作电影
 http://49.235.110.121:9090/daili/小果.php?id=wqCHCdzdyH265_4000&Cf.m3u8
-#EXTINF:-1,CHC高清电影
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="电影",CHC高清电影
 http://49.235.110.121:9090/daili/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
-#EXTINF:-1,凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://49.235.110.121:9090/daili/小果.php?id=test1_4000&Cf.m3u8
-#EXTINF:-1,凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://49.235.110.121:9090/daili/小果.php?id=test2_4000&Cf.m3u8
-#EXTINF:-1,北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://49.235.110.121:9090/daili/小果.php?id=bjwsH265_4000&Cf.m3u8
-#EXTINF:-1,东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 http://49.235.110.121:9090/daili/小果.php?id=dfwsH265_4000&Cf.m3u8
-#EXTINF:-1,东南卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
 http://49.235.110.121:9090/daili/小果.php?id=dnwsfjwsH265_4000&Cf.m3u8
-#EXTINF:-1,河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
 http://49.235.110.121:9090/daili/小果.php?id=hnws35_4000&Cf.m3u8
-#EXTINF:-1,江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://49.235.110.121:9090/daili/小果.php?id=jswsH265_4000&Cf.m3u8
-#EXTINF:-1,山东卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 http://49.235.110.121:9090/daili/小果.php?id=sdwsH265_4000&Cf.m3u8
-#EXTINF:-1,陕西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
 http://49.235.110.121:9090/daili/小果.php?id=sxws_4000&Cf.m3u8
-#EXTINF:-1,深圳卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://49.235.110.121:9090/daili/小果.php?id=szwsH265_4000&Cf.m3u8
-#EXTINF:-1,长风乐游
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视",乐游
 http://49.235.110.121:9090/daili/小果.php?id=qjs-HDH265_4000&Cf.m3u8
-#EXTINF:-1,梨园频道
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/梨园频道.png" group-title="卫视",梨园频道
 http://49.235.110.121:9090/daili/小果.php?id=ly_4000&Cf.m3u8
-#EXTINF:-1,中国天气
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视",中国天气
 http://49.235.110.121:9090/daili/小果.php?id=zgqx_4000&Cf.m3u8
-#EXTINF:-1,新视觉
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视",新视觉
 http://49.235.110.121:9090/daili/小果.php?id=ycxsjH265_4000&Cf.m3u8
-#EXTINF:-1,中央新影-发现之旅
+#EXTINF:-1 tvg-id="中央新影-发现之旅" tvg-name="中央新影-发现之旅" tvg-logo="https://live.fanmingming.com/tv/中央新影-发现之旅.png" group-title="央视",中央新影-发现之旅
 http://49.235.110.121:9090/daili/小果.php?id=fxzl_2000&Cf.m3u8
-#EXTINF:-1,中央新影-老故事
+#EXTINF:-1 tvg-id="中央新影-老故事" tvg-name="中央新影-老故事" tvg-logo="https://live.fanmingming.com/tv/中央新影-老故事.png" group-title="央视",中央新影-老故事
 http://49.235.110.121:9090/daili/小果.php?id=lgs_2000&Cf.m3u8
-#EXTINF:-1,中央新影-中学生
+#EXTINF:-1 tvg-id="中央新影-中学生" tvg-name="中央新影-中学生" tvg-logo="https://live.fanmingming.com/tv/中央新影-中学生.png" group-title="央视",中央新影-中学生
 http://49.235.110.121:9090/daili/小果.php?id=zxs_4000&Cf.m3u8
-#EXTINF:-1,山东教育卫视
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png" group-title="卫视",山东教育卫视
 http://49.235.110.121:9090/daili/小果.php?id=sdjy_4000&Cf.m3u8
 #EXTINF:-1,内蒙古卫视
 http://49.235.110.121:9090/daili/小果.php?id=nmgws_4000&Cf.m3u8
