@@ -179,6 +179,8 @@ http://epg.112114.xyz/douyu/323876
 http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 #EXTINF:-1 group-title="测试频道",新加坡·CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="测试频道",澳门资讯
+https://epg.pw/stream/8f5e06164f83ea905f999a68eb8c62711d9b752fc3b984f5a6b07b1b355e210b.m3u8
 #EXTINF:-1 group-title="测试频道",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="测试频道",TVBS新闻
@@ -405,15 +407,3 @@ http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1,房山电视台 
 https://live.funhillrm.com/2/playlist.m3u8
-#EXTINF:-1 tvg-id="超高清电影4K" tvg-name="超高清电影4K" tvg-logo="https://live.fanmingming.com/tv/超高清电影4K.png" group-title="电影",超高清电影4K
-http://49.235.110.121:9090/daili/小果.php?id=emdy4k_8000&Cf.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影",CHC家庭影院
-http://49.235.110.121:9090/daili/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影",CHC动作电影
-http://49.235.110.121:9090/daili/小果.php?id=wqCHCdzdyH265_4000&Cf.m3u8
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="电影",CHC高清电影
-http://49.235.110.121:9090/daili/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳台",凤凰中文
-http://49.235.110.121:9090/daili/小果.php?id=test1_4000&Cf.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://49.235.110.121:9090/daili/小果.php?id=test2_4000&Cf.m3u8
